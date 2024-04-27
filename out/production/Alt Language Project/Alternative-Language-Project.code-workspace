@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Alternative-Language-Project",
+			"path": "../../.."
+		},
+		{
+			"name": "resources",
+			"path": "../../../../../../Downloads/Alt Language Project/resources"
+		},
+		{
+			"name": "out",
+			"path": "../../../../../../Downloads/Alt Language Project/out"
+		}
+	],
+	"settings": {}
+}
