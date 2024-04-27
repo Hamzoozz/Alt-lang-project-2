@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Alternative-Language-Project/out/production/Alt Language Project"
+		},
+		{
+			"path": "../../../../Alternative-Language-Project/resources"
+		},
+		{
+			"path": "../../../../Alternative-Language-Project/src"
+		}
+	],
+	"settings": {}
+}
